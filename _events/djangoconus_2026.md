@@ -1,6 +1,7 @@
 ---
 layout: events
 name: "DjangoCon US 2026"
+logo_url: "/img/events/djangocon2026.svg"
 dates: "Mon, Aug 24, 2026 9:00 AM  Fri, Aug 28, 2026 5:00 PM"
 place: "voco Chicago Downtown"
 talks: "August 24-26, 2026"
